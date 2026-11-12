@@ -1,0 +1,1 @@
+print("hello dawsatek22") # print een bericht
